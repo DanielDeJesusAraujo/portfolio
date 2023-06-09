@@ -147,7 +147,7 @@ Error generating stack: `+i.message+`
     padding: 0 5px;
   }
   @media (max-width: 768px) {
-    width: 100%;
+    width: 97%;
     display: flex;
     flex-direction: column;
     justify-content: center;
